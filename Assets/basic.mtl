@@ -1,0 +1,436 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 24.12.2019 04:03:11
+
+newmtl spurce_bot_0
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka models\basic\spurce_bot_baseColor_2482284014770620808.png
+	map_Kd models\basic\spurce_bot_baseColor_2482284014770620808.png
+
+newmtl snowman_eyebrowL_outside_0
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka models\basic\snowman_eyebrowL_outside_baseColor_1209896779176171428.png
+	map_Kd models\basic\snowman_eyebrowL_outside_baseColor_1209896779176171428.png
+
+newmtl bucket_handle_0
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka models\basic\bucket_handle_baseColor_8153810648107067296.png
+	map_Kd models\basic\bucket_handle_baseColor_8153810648107067296.png
+
+newmtl ground_bot_0
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka models\basic\ground_bot_baseColor_17832851910588591680.png
+	map_Kd models\basic\ground_bot_baseColor_17832851910588591680.png
+
+newmtl Mat_0
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka models\basic\spurce_top_baseColor_2836010352664199032.png
+	map_Kd models\basic\spurce_top_baseColor_2836010352664199032.png
+
+newmtl Mat_1
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka models\basic\snowman_hair_baseColor_8328196163999553924.png
+	map_Kd models\basic\snowman_hair_baseColor_8328196163999553924.png
+
+newmtl ground_top_0
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka models\basic\ground_top_baseColor_6672996682974157280.png
+	map_Kd models\basic\ground_top_baseColor_6672996682974157280.png
+
+newmtl snowman_eyebrowR_outside_0
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka models\basic\snowman_eyebrowR_outside_baseColor_11844104306962135124.png
+	map_Kd models\basic\snowman_eyebrowR_outside_baseColor_11844104306962135124.png
+
+newmtl bucket_outside_0
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka models\basic\bucket_outside_baseColor_12136749704190523488.png
+	map_Kd models\basic\bucket_outside_baseColor_12136749704190523488.png
+
+newmtl snowman_eyebrowR_inside_0
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka models\basic\snowman_eyebrowR_inside_baseColor_3896539097055736404.png
+	map_Kd models\basic\snowman_eyebrowR_inside_baseColor_3896539097055736404.png
+
+newmtl bucket_inside_0
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka models\basic\bucket_inside_baseColor_15853527909305393568.png
+	map_Kd models\basic\bucket_inside_baseColor_15853527909305393568.png
+
+newmtl snowman_mouth_outside_0
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka models\basic\snowman_mouth_outside_baseColor_11513724780431603008.png
+	map_Kd models\basic\snowman_mouth_outside_baseColor_11513724780431603008.png
+
+newmtl snowman_mouth_inside_0
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka models\basic\snowman_mouth_inside_baseColor_9920177610294903460.png
+	map_Kd models\basic\snowman_mouth_inside_baseColor_9920177610294903460.png
+
+newmtl snowman_potatoEyeL_0
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka models\basic\snowman_potatoEyeL_baseColor_14151664241116589196.png
+	map_Kd models\basic\snowman_potatoEyeL_baseColor_14151664241116589196.png
+
+newmtl snowman_potatoEyeR_0
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka models\basic\snowman_potatoEyeR_baseColor_2001302172567160628.png
+	map_Kd models\basic\snowman_potatoEyeR_baseColor_2001302172567160628.png
+
+newmtl snowman_body03_0
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka models\basic\snowman_body03_baseColor_12327387756612661548.png
+	map_Kd models\basic\snowman_body03_baseColor_12327387756612661548.png
+
+newmtl carrot_0
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka models\basic\carrot_baseColor_17700293637922875428.png
+	map_Kd models\basic\carrot_baseColor_17700293637922875428.png
+
+newmtl wood01_0
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka models\basic\wood01_baseColor_14100424578300817584.png
+	map_Kd models\basic\wood01_baseColor_14100424578300817584.png
+
+newmtl wood02_0
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka models\basic\wood02_baseColor_13947482438737734672.png
+	map_Kd models\basic\wood02_baseColor_13947482438737734672.png
+
+newmtl wood04_0
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka models\basic\wood04_baseColor_4333190839012041768.png
+	map_Kd models\basic\wood04_baseColor_4333190839012041768.png
+
+newmtl wood03_0
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka models\basic\wood03_baseColor_6090930606696802952.png
+	map_Kd models\basic\wood03_baseColor_6090930606696802952.png
+
+newmtl snowman_potato01_0
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka models\basic\snowman_potato01_baseColor_10607934527199845744.png
+	map_Kd models\basic\snowman_potato01_baseColor_10607934527199845744.png
+
+newmtl snowman_potato02_0
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka models\basic\snowman_potato02_baseColor_11805666836275751340.png
+	map_Kd models\basic\snowman_potato02_baseColor_11805666836275751340.png
+
+newmtl snowman_potato03_0
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka models\basic\snowman_potato03_baseColor_3251553961767413812.png
+	map_Kd models\basic\snowman_potato03_baseColor_3251553961767413812.png
+
+newmtl snowman_body02_0
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka models\basic\snowman_body02_baseColor_7911412477533152716.png
+	map_Kd models\basic\snowman_body02_baseColor_7911412477533152716.png
+
+newmtl shovel_head_0
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka models\basic\shovel_head_baseColor_540524014759388036.png
+	map_Kd models\basic\shovel_head_baseColor_540524014759388036.png
+
+newmtl shovel_neck_0
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka models\basic\shovel_neck_baseColor_4032192262073699916.png
+	map_Kd models\basic\shovel_neck_baseColor_4032192262073699916.png
+
+newmtl shovel_handle_0
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka models\basic\shovel_handle_baseColor_11271882708714846256.png
+	map_Kd models\basic\shovel_handle_baseColor_11271882708714846256.png
+
+newmtl snowman_body01_0
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka models\basic\snowman_body01_baseColor_7811676390759691216.png
+	map_Kd models\basic\snowman_body01_baseColor_7811676390759691216.png
+
+newmtl snow_lake_0
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka models\basic\snow_lake_baseColor_1045964313015854640.png
+	map_Kd models\basic\snow_lake_baseColor_1045964313015854640.png
+
+newmtl snow_top_0
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka models\basic\snow_top_baseColor_10428097253032381332.png
+	map_Kd models\basic\snow_top_baseColor_10428097253032381332.png
